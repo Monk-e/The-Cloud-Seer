@@ -7,4 +7,4 @@ This is a API based Weather Page where it fetches weather data from [weatherapi]
 - JS
 - APIs
 
-![page](https://github.com/Monk-e/Weather-Proj/assets/118820956/c1cd45dc-6d50-4051-a6c1-d74f1537d600)
+![page](https://github.com/Monk-e/Weather-Proj/assets/118820956/482b52ca-5d84-41a8-be88-7a2f538f79ca)
