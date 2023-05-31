@@ -33,12 +33,12 @@ body {
 }
 
 .card2 {
-    background-color: #607D8B;
+    background-color: #000000a1;
     padding: 0px 0px 40px 40px
 }
 
 input {
-    background-color: #607D8B;
+    background-color: #00000018;
     padding: 24px 0px 12px 0px !important;
     width: 80%;
     box-sizing: border-box;
