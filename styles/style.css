@@ -4,7 +4,7 @@ html {
 }
 ::-webkit-scrollbar {
   width: 9px;  /* Remove scrollbar space */
-  background: rgba(255, 255, 255, 0.507); 
+  background: #ffffffe0; 
  /* Optional: just make scrollbar invisible */
 }
 /* Optional: show position indicator in red */
