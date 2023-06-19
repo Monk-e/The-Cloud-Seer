@@ -4,12 +4,12 @@ html {
 }
 ::-webkit-scrollbar {
   width: 9px;  /* Remove scrollbar space */
-  background: rgb(239, 229, 221); 
+  background: white; 
  /* Optional: just make scrollbar invisible */
 }
 /* Optional: show position indicator in red */
 ::-webkit-scrollbar-thumb {
-  background-color: white;
+  background-color: #88d4f4;
   border-radius: 25px;
 }
 body {
